@@ -6,9 +6,9 @@
 
 - Contact us to let us know which e-bike(s) you'd like to try.
 
-
-| Total number of rebates requested      | N/A       |
-| Total $ of rebates requested   | N/A        |
+|:--:|:--:|
+| Total number of rebates requested  | N/A | 
+| Total $ of rebates requested | N/A | 
 | Total $ of rebates granted   | N/A        |
 
 *Last updated: 11/05/2023*
