@@ -3,18 +3,18 @@
 > or see us on
 > [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)!
 
-# Curious about e-bikes? Try one from the Charlottesville E-bike Lending Library!
+# Curious about e-bikes? Try one from the RVA E-BikeLending Library!
 
 E-bikes are a great way to get around Charlottesville. But there are many brands and
 styles to choose from, and because many e-bikes are sold online, it can be a challenge to
 try an e-bike before buying one.
 
-The Charlottesville E-bike Lending Library is a free, non-profit service working to expand
+The RVA E-BikeLending Library is a free, non-profit service working to expand
 access to e-bikes in the area. We have a small collection of e-bikes that we lend out to
 community members for up to a week, for free. You can experience your daily commute, go
 grocery shopping, or even bike your kids to school, and decide whether e-bikes are right
 for you. [Sign up](https://forms.gle/ZykVSUUp2KPBHxfv5) to borrow an e-bike or
-[contact us](mailto:hi@ebikelibrarycville.org) with any questions.
+[contact us](mailto:hi@ebikelibraryrva.org) with any questions.
 
 ### How it works
 

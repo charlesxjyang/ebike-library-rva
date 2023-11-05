@@ -3,14 +3,14 @@
 We don't charge to borrow an e-bike, but we welcome donations to help cover maintenance
 and events. You can make a tax-deductible contribution
 [via Virginia Organizing](https://donatenow.networkforgood.org/1388125) (select
-Charlottesville E-bike Lending Library from the designation drop-down).
+RVA E-BikeLending Library from the designation drop-down).
 
 We also welcome volunteers who want to help get the word out about e-bikes, plan community
 events, and advocate for better bicycle and pedestrian infrastructure in the
 Charlottesville area. Get in touch at hi@ebikelibrarycville.com if you'd like to get
 involved!
 
-> The Charlottesville E-bike Lending Library operates under a Joint Plan of Work with
+> The RVA E-BikeLending Library operates under a Joint Plan of Work with
 > [Virginia Organizing](https://virginia-organizing.org/), which is a 501(c)3 and accepts
 > tax-deductible financial contributions on our behalf.
 >

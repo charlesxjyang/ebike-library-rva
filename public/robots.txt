@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://ebikelibrarycville.org/sitemap.xml
+Sitemap: https://ebikelibraryrva.org/sitemap.xml
