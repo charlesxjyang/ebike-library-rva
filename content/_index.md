@@ -1,23 +1,18 @@
 # RVA E-Bikes Rebate Program
 
+Many cities across the US are beginning to launch electric bike rebate programs, from places like [Denver, Colorado](https://denverite.com/2022/06/28/denver-ebike-rebate-program/), to [Tampa, Florida](https://www.wusf.org/transportation/2023-03-01/tampa-voucher-program-incentive-purchase-ebikes), to right next door to us in [Washington DC](https://dcist.com/story/23/09/19/dc-council-passes-ebike-bill/). And its no wonder why! [Electric bikes are good for our climate, are mcheaper to own than a car, and safer for our streets compared to massive SUV's](https://charlesyang.substack.com/p/chartbook-electric-bikes-as-a-climate). 
 
+We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is excited to launch a philanthropic 1-year electric bike rebate program specifically for Richmond City public school teachers and city employees. The rebate program will last until funding runs out or until the 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, tell your city council and mayor!
 
 ### How it works
 
-- Only Richmond city employees or Richmond city public school teachers are eligible.
+- **Only Richmond city employees or Richmond city public school teachers are eligible**.
 - Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?usp=sf_link) (or see below) to apply
 - Rebates will be disbursed on the first day of every month, in the form of gift cards to a selected brand in our portfolio.
   - Next rebate announcement: 02/01/2023
-- Rebate amounts will be determined by income band, as shown below
-- Rebates will continue until funding runs out or until the 2024 Richmond city council and mayoral election, whichever comes first. If you want to see more funding for local e-bikes in Richmond, tell your city council members and candidates!
+- Rebate amounts will be determined by income band, as shown below. Applicants in lower income bands will have priority. 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-| Income Range| Rebate Amount |
-|-|-|
-| <$60,001  | $600 | 
-| $60,001-$80,000 | $400 | 
-| >$80,001   | Ineligible |
 
 
 | | |
@@ -26,9 +21,15 @@
 | Total $ of rebates requested | N/A | 
 | Total $ of rebates granted   | N/A        |
 
+| Income Range| Rebate Amount |
+|-|-|
+| <$60,001  | $800 | 
+| $60,001-$80,000 | $400 | 
+| >$80,001   | Ineligible |
+
 *Last updated: 11/05/2023*
 
-The RVA E-Bikes! program is run by me, Charles Yang. I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/)
+The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.github.io/). I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/), a grassroots housing advocacy group.
 
 We welcome [donations and volunteers](/support) if
 you'd like to support our mission and help cover our costs.
