@@ -12,7 +12,7 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
   - Next rebate announcement: 02/01/2023
 - Rebate amounts will be determined by income band, as shown below. Applicants in lower income bands will have priority. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 | Income Range| Rebate Amount |
