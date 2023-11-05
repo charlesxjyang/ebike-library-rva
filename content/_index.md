@@ -15,17 +15,21 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+| Income Range| Rebate Amount |
+|-|-|
+| <$60,001  | $800 | 
+| $60,001-$80,000 | $400 | 
+| >$80,001   | Ineligible |
+
+If you are not eligible, you can check out our [e-bike buying guide, which includes referral links for online vendors](/get-yours). 
+
 | | |
 |-|-|
 | Total number of rebates requested  | N/A | 
 | Total $ of rebates requested | N/A | 
 | Total $ of rebates granted   | N/A        |
 
-| Income Range| Rebate Amount |
-|-|-|
-| <$60,001  | $800 | 
-| $60,001-$80,000 | $400 | 
-| >$80,001   | Ineligible |
+
 
 *Last updated: 11/05/2023*
 
