@@ -1,8 +1,3 @@
-> Read about us in
-> [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)
-> or see us on
-> [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)!
-
 # Curious about e-bikes? Try one from the RVA E-Bike Lending Library!
 
 E-bikes are a great way to get around Charlottesville. But there are many brands and
@@ -42,5 +37,3 @@ you'd like to support our mission and help cover our costs.
 ### Read more about [our bikes](/about)
 
 ### Pick up some [free stuff](/free-stuff)
-
-### Join us at one of our [events](/events)
