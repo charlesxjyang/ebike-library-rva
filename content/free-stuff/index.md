@@ -30,10 +30,8 @@ going to buy an e-bike from a company not listed here,
 - Blix: http://blixbike.refr.cc/cvilleebikelendingli
 - Himiway: https://i.refs.cc/tHiwrnCH
 - KBO: http://kbobike.refr.cc/charlottesvilleebike
-- Propella: https://www.propellasg.com/?r=usr_2HpyAnASNiIIcYTVEiIFqIdLZKE
 - Rad Power Bikes: http://rwrd.io/mt2dtbd?c
 - Radio Flyer: https://flyer.radioflyer.com/?ref=REFJNTBCRELOLCJ
-- Ride1Up: https://ride1up.com/?wpam_id=1079
 - Velotric: https://www.velotricbike.com/discount/REF50369?ref=KDFqnLDk
 
 If an e-bike is outside your budget, [let us know](mailto:hi@ebikelibrarycville.org) and
