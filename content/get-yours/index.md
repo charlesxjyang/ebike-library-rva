@@ -24,14 +24,14 @@ e-bike and taking care of it once it arrives.
   management system (BMS). Avoid no-name and second-hand batteries, and always charge with
   the charger provided by the manufacturer. Read more about battery safety at
   [Consumer Reports](https://www.consumerreports.org/health/electric-bikes/how-to-prevent-e-bike-fires-a2493889574/).
-- **Make a plan for maintenance**. Many bike shops in the Charlottesville area will do
+- **Make a plan for maintenance**. Many bike shops in the Richmond Virginia area will do
   mechanical work on e-bikes, like adjusting your brakes or doing a tune-up. But they may
   not be able to work on the electronics in your e-bike. Ask a bike shop if they'll work
   on the e-bike you're considering.
 
 ### Where to buy an e-bike
 
-- **Local or online**. Several local bike shops in the Charlottesville area sell e-bikes.
+- **Local or online**. Several local bike shops in the Richmond Virginia area sell e-bikes.
   You can also order an e-bike online from a growing number of companies. Prices are
   typically lower online, but keep in mind that you won't have to assemble a bike that you
   buy from a local shop, and you'll typically receive free or discounted maintenance if
@@ -67,7 +67,7 @@ e-bike and taking care of it once it arrives.
   working on bikes, you can do a lot of it yourself. For example, you can adjust your
   brakes with a hex key and a pair of pliers. E-bikes are heavier and faster than regular
   bikes, so your brakes may wear faster than the brakes on a regular bike.
-- **Ride safely**. The Charlottesville area doesn't have great bike infrastructure, so
+- **Ride safely**. The Richmond Virginia area doesn't have great bike infrastructure, so
   you'll probably be sharing the road with cars. It's possible to get to almost anywhere
   within city limits, and many places in Albemarle County, on an e-bike, but it helps to
   plan your route in advance, and use side streets, parking lots, and maybe an occasional

@@ -27,7 +27,7 @@ going to buy an e-bike from a company not listed here,
 [let us know](mailto:hi@ebikelibraryrva.org) and we'll set up referrals.
 
 - Aventon: https://prz.io/XgyBjx4tK
-- Blix: http://blixbike.refr.cc/cvilleebikelendingli
+- Blix: http://blixbike.refr.cc/cvilleeBike Lendingli
 - Himiway: https://i.refs.cc/tHiwrnCH
 - KBO: http://kbobike.refr.cc/charlottesvilleebike
 - Rad Power Bikes: http://rwrd.io/mt2dtbd?c
