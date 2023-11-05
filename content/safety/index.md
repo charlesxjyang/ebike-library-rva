@@ -1,5 +1,9 @@
 # Safety
 
+### Anti-theft stickers
+You can put a sticker on your bike and register it with [Bike Index](https://bikeindex.org/). If your bike gets stolen, you can notify Bike Index, and potential buyers will be able to figure out that the bike was
+stolen and should be returned to you. 
+
 ### Guidelines for borrowing an e-bike
 
 - **Wear a helmet**. If you don't have a helmet, we'll be happy to lend you one.

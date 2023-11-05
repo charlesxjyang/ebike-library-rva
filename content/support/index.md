@@ -1,20 +1,16 @@
 # Support our mission
 
-We don't charge to borrow an e-bike, but we welcome donations to help cover maintenance
-and events. You can make a tax-deductible contribution
-[via Virginia Organizing](https://donatenow.networkforgood.org/1388125) (select
-RVA E-Bike Lending Library from the designation drop-down).
 
-We also welcome volunteers who want to help get the word out about e-bikes, plan community
-events, and advocate for better bicycle and pedestrian infrastructure in the
-Richmond Virginia area. Get in touch at hi@ebikelibrarycville.com if you'd like to get
-involved!
+If you would like to support our mission, you can make a donation here:
 
-> The RVA E-Bike Lending Library operates under a Joint Plan of Work with
-> [Virginia Organizing](https://virginia-organizing.org/), which is a 501(c)3 and accepts
-> tax-deductible financial contributions on our behalf.
->
-> Virginia Organizing is officially registered with the Department of Agriculture and
-> Consumer Services, P.O. Box 1163, Richmond, VA 23209. You can write to this Department
-> for all relevant financial statements and procedures regarding the solicitation of
-> contributions. Your donation is tax-deductible to the extent allowed by law.
+<iframe src="https://hcb.hackclub.com/donations/start/rva-e-bikes" style="border:none;" name="donateFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="512px" width="512px" allowfullscreen></iframe>
+
+If you would like to mail a check, you can mail it to:
+```
+The Hack Foundation
+8605 Santa Monica Blvd #86294
+West Hollywood, CA 90069
+```
+Checks must be made out to either "The Hack Foundation" or "Hack Club", with "RVA E-Bikes!" in the memo line.
+
+RVA E-Bikes! is fiscally sponsored by Hack Club, which is legally registered as The Hack Foundation. Our EIN, which is the same as our tax ID, is 81-2908499. It is also available at the bottom of https://hackclub.com.
