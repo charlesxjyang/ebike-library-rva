@@ -13,12 +13,16 @@
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="1704" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-|:--:|:--:|:--:|
-| centered | centered | centered |
-| centered | centered | centered |
+
+| Income Range| Rebate Amount |
+|-|-|
+| <$60,001  | $600 | 
+| $60,001-$80,000 | $400 | 
+| >$80,001   | Ineligible |
 
 
-|:--:|:--:|
+| | |
+|-|-|
 | Total number of rebates requested  | N/A | 
 | Total $ of rebates requested | N/A | 
 | Total $ of rebates granted   | N/A        |
