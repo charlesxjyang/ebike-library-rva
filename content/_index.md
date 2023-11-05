@@ -11,8 +11,7 @@
 - Rebate amounts will be determined by income band, as shown below
 - Rebates will continue until funding runs out or until the 2024 Richmond city council and mayoral election, whichever comes first. If you want to see more funding for local e-bikes in Richmond, tell your city council members and candidates!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="1704" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 | Income Range| Rebate Amount |
 |-|-|
