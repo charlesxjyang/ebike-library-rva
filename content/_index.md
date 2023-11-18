@@ -17,10 +17,10 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 
 | Income Range| Rebate Amount |
 |-|-|
-<!--| <$60,001  | $500 | -->
-<!--| $60,001-$80,000 | $300 | -->
 | <$80,000 | $500 |
 | >$80,001   | Possibly eligible for lower amounts |
+<!--| <$60,001  | $500 | -->
+<!--| $60,001-$80,000 | $300 | -->
 
 Note the rebate amounts are primarily limited by the gift card options offered by different vendors. If you know of ways around this (or are a vendor and want to support us) please reach out to [hi@ebikelibraryrva.org](mailto:hi@ebikelibraryrva.org)
 
