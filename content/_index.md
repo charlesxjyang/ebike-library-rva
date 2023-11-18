@@ -17,8 +17,8 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 
 | Income Range| Rebate Amount |
 |-|-|
-| <$60,001  | $800 | 
-| $60,001-$80,000 | $400 | 
+| <$60,001  | $500 | 
+| $60,001-$80,000 | $300 | 
 | >$80,001   | Possibly eligible for lower amounts |
 
 If you are not eligible, you can check out our [e-bike buying guide, which includes referral links for online vendors](/get-yours). 
