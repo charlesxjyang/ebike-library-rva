@@ -1,4 +1,4 @@
-# E-Bike Library
+# RVA E-Bike Library
 
 In partnership with [Wheel Simple](https://itswheelsimple.com/), `RVA E-Bikes!` is hosting a Richmond e-bike library. You can borrow an e-bike for up to 2 weeks from the library, to try out an e-bike for yourself!
 

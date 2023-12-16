@@ -729,11 +729,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/library/"
   [[menu.main]]
     weight = 2
+    identifier = "rebate"
+    name = "E-Bike Rebates"
+    url = "/rebates/"
+  [[menu.main]]
+    weight = 3
     identifier = "support"
     name = "Support"
     url = "/support/"
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "safety"
     name = "Safety"
     url = "/safety/"
