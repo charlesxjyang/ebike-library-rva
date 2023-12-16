@@ -24,7 +24,7 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 
 Note the rebate amounts are primarily limited by the gift card options offered by different vendors. If you know of ways around this (or are a vendor and want to support us) please reach out to [hi@ebikelibraryrva.org](mailto:hi@ebikelibraryrva.org)
 
-If you are not eligible, you can check out our [e-bike buying guide, which includes referral links for online vendors](/get-yours). 
+If you are not eligible, you can check out our [e-bike buying guide, which includes referral links for online vendors](/get-yours) or [check out an e-bike from our library](/library)
 
 | | |
 |-|-|
