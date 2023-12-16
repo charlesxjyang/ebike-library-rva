@@ -1,10 +1,10 @@
 # E-Bike Library
 
-In partnership with [Wheel Simple](https://itswheelsimple.com/), `RVA E-Bikes!` is hosting an e-bike library. You can borrow an e-bike for up to 2 weeks from the library, to try out an e-bike for yourself!
+In partnership with [Wheel Simple](https://itswheelsimple.com/), `RVA E-Bikes!` is hosting a Richmond e-bike library. You can borrow an e-bike for up to 2 weeks from the library, to try out an e-bike for yourself!
 
-![Wheel Simple Logo](cropped-wheelsimple-black.png)
+![Wheel Simple Logo](./cropped-wheelsimple-black.png)
 
-We currently have two e-bikes available:
+We currently have two e-bikes models available:
 - [Linus Ember e6100 Step Through](https://www.linusbike.com/products/ember)
   ![Picture of Linus Ember Step Through](/ebikes/linus_ember.png)
 - [Linus Felix e6100 Step Over](https://www.linusbike.com/products/felix)
@@ -16,9 +16,12 @@ We currently have two e-bikes available:
 
 
 To find out about current availability of e-bikes in the library, reach out to Wheel Simple at:
-- 2225 E. Clay St
 - 804.466.3166
 - [itswheelsimple@gmail.com](mailto:itswheelsimple@gmail.com)
+- 2225 E. Clay St
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11639.675930274421!2d-77.42869963904023!3d37.53717322221317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b111125b5895d9%3A0x6f96d2735944ea05!2sWheel%20Simple%20Bicycle%20Repair!5e0!3m2!1sen!2sus!4v1702756150413!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 *Last updated: 12/16/2023*
 
