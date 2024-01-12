@@ -2,13 +2,20 @@
 
 Many cities across the US are beginning to launch electric bike rebate programs, from places like [Denver, Colorado](https://denverite.com/2022/06/28/denver-ebike-rebate-program/), to [Tampa, Florida](https://www.wusf.org/transportation/2023-03-01/tampa-voucher-program-incentive-purchase-ebikes), to right next door to us in [Washington DC](https://dcist.com/story/23/09/19/dc-council-passes-ebike-bill/). And its no wonder why! [Electric bikes are good for our climate, are much cheaper to own than a car, and safer for our streets compared to massive SUV's](https://charlesyang.substack.com/p/chartbook-electric-bikes-as-a-climate). 
 
-We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is excited to launch a philanthropic 1-year electric bike rebate program specifically for Richmond City public school teachers and city employees. The rebate program will last until funding runs out or until the 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, tell your city council and mayor!
+We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is excited to launch a philanthropic 1-year electric bike rebate program specifically for Richmond City public school teachers and city employees, in partnership with [Kul Wheels](https://www.kulwheels.com/). For each rebate, Kul Wheels will provide a free bike helmet and lock, as well as the standard set of Kul Wheels perks.
+
+![RVA E-Bikes and Kul Wheel Rebate](/img/rebate-logo.png)
+
+![Kul Wheel Perks](/img/kul-wheel-perk.png)
+
+The rebate program will last until funding runs out or until the November 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, [tell Richmond city council and mayor by emailing them](https://www.rva.gov/richmond-city-council/council-contacts)! You can also support the recently introduced [state-wide E-bike rebate bill (HB 748)](https://lis.virginia.gov/cgi-bin/legp604.exe?ses=241&typ=bil&val=hb748) by telling your local state house and state senate representative! Another way is to sign this petition by the [Virginia Biking Federation]([https://waba.org/blog/2024/01/2024va/](https://p2a.co/ylMvPwL))).
+
 
 ### How it works
 
 - **Only current Richmond city employees or Richmond city public school teachers and staff are eligible, with priority given to those who make less than $80K based on publicly available employee salary information**.
 - Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?usp=sf_link) (or see below) to apply
-- Rebates will be disbursed on the first day of every month, in the form of gift cards to a selected brand in our portfolio. Anyone who does not receive a rebate in one month will still be included in the next rounds, so there is no need to apply more than once. 
+- Rebates will be disbursed on the first day of every month, in the form of gift cards to a selected brand in our portfolio. Anyone who does not receive a rebate in one month will still be included in the next rounds, so there is no need to apply more than once.
   - Next rebate announcement: 02/01/2023
 <!-- - Rebate amounts will be determined by income band, as shown below. Applicants in lower income bands will have priority. -->
 
@@ -21,8 +28,6 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 | >$80,001   | Possibly eligible for lower amounts |
 <!--| <$60,001  | $500 | -->
 <!--| $60,001-$80,000 | $300 | -->
-
-Note the rebate amounts are primarily limited by the gift card options offered by different vendors. If you know of ways around this (or are a vendor and want to support us) please reach out to [hi@ebikelibraryrva.org](mailto:hi@ebikelibraryrva.org)
 
 If you are not eligible, you can check out our [e-bike buying guide, which includes referral links for online vendors](/get-yours) or [check out an e-bike from our library](/library)
 
