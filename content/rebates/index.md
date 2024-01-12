@@ -13,7 +13,7 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 </p>
 
 
-The rebate program will last until funding runs out or until the November 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, [tell Richmond city council and mayor by emailing them](https://www.rva.gov/richmond-city-council/council-contacts)! You can also support the recently introduced [state-wide E-bike rebate bill (HB 748)](https://lis.virginia.gov/cgi-bin/legp604.exe?ses=241&typ=bil&val=hb748) by telling your local state house and state senate representative! Another way is to sign this petition by the [Virginia Biking Federation](https://p2a.co/ylMvPwL).
+The rebate program will last until funding runs out or until the November 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, [tell Richmond city council and mayor by emailing them](https://www.rva.gov/richmond-city-council/council-contacts)! You can also support the recently introduced [Virginia state-wide E-bike rebate bill (HB 748)](https://lis.virginia.gov/cgi-bin/legp604.exe?ses=241&typ=bil&val=hb748) by telling your state house representative and state senator! Another way to show your support is to sign this petition by the [Virginia Biking Federation](https://p2a.co/ylMvPwL).
 
 
 ### How it works
