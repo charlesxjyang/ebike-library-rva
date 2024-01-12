@@ -5,11 +5,11 @@ Many cities across the US are beginning to launch electric bike rebate programs,
 We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is excited to launch a philanthropic 1-year electric bike rebate program specifically for Richmond City public school teachers and city employees, in partnership with [Kul Wheels](https://www.kulwheels.com/). For each rebate, Kul Wheels will provide a free bike helmet and lock, as well as the standard set of Kul Wheels perks.
 
 <p align="center">
-  <img src="/img/rebate-logo.png" alt="RVA E-Bikes and Kul Wheels Rebate" width="200"/>
+  <img src="/img/rebate-logo.png" alt="RVA E-Bikes and Kul Wheels Rebate" width="400"/>
 </p>
 
 <p align="center">
-  <img src="/img/kul-wheel-perk.png" alt="Kul Wheel Perk" width="200"/>
+  <img src="/img/kul-wheel-perk.png" alt="Kul Wheel Perk" width="400"/>
 </p>
 
 
