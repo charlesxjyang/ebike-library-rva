@@ -2,7 +2,7 @@
 
 Many cities across the US are beginning to launch electric bike rebate programs, from places like [Denver, Colorado](https://denverite.com/2022/06/28/denver-ebike-rebate-program/), to [Tampa, Florida](https://www.wusf.org/transportation/2023-03-01/tampa-voucher-program-incentive-purchase-ebikes), to right next door to us in [Washington DC](https://dcist.com/story/23/09/19/dc-council-passes-ebike-bill/). And its no wonder why! [Electric bikes are good for our climate, are much cheaper to own than a car, and safer for our streets compared to massive SUV's](https://charlesyang.substack.com/p/chartbook-electric-bikes-as-a-climate). 
 
-We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is excited to launch a philanthropic 1-year electric bike rebate program specifically for Richmond City public school teachers and city employees, in partnership with [Kul Wheels](https://www.kulwheels.com/). For each rebate, Kul Wheels will provide a free bike helmet and lock, as well as the standard set of Kul Wheels perks.
+We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is excited to launch a philanthropic 1-year electric bike rebate program specifically for Richmond City public school teachers and city employees, in partnership with [Kul Wheels](https://www.kulwheels.com/). For each rebate, Kul Wheels will provide a free bike helmet and lock, as well as the standard set of Kul Wheels perks (Terms and Conditions apply).
 
 <p align="center">
   <img src="/img/rebate-logo.png" alt="RVA E-Bikes and Kul Wheels Rebate" width="400"/>

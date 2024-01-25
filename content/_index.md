@@ -1,6 +1,6 @@
 # RVA E-Bikes!
 
-Welcome to `RVA E-Bikes`! We are a non-profit based in Richmond VA that aims to promote adoption of electric bikes. E-Bikes are [better for our climate, safer for our kids](https://charlesyang.substack.com/p/chartbook-electric-bikes-as-a-climate), and a more joyful way to get around our wonderful RVA!
+Welcome to `RVA E-Bikes`! We are a non-profit based in Richmond VA that aims to promote adoption of electric bikes. E-Bikes are [better for our climate, make our streets safer for our kids](https://charlesyang.substack.com/p/chartbook-electric-bikes-as-a-climate), and provide a more joyful way to get around our wonderful RVA!
 
 ![RVA E-Bikes! logo](/img/rva_ebikes_logo.jpg)
 

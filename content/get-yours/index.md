@@ -32,17 +32,14 @@ e-bike and taking care of it once it arrives.
 ### Where to buy an e-bike
 
 - **Local or online**. Several local bike shops in the Richmond area sell e-bikes.
-  You can also order an e-bike online from a growing number of companies. Prices are
-  typically lower online, but keep in mind that you won't have to assemble a bike that you
+  You can also order an e-bike online from a growing number of companies. If you buy online, keep in mind that you won't have to assemble a bike that you
   buy from a local shop, and you'll typically receive free or discounted maintenance if
   you buy locally.
     - If you would like to buy e-bike online, you can use our referral links and support `RVA E-Bikes!` mission. 
     - Rad Power: http://rwrd.io/2mys0y8?c
     - Aventon: https://prz.io/2ylDyvjTE
 - **Budget bikes**. You can find decent e-bikes for as little as $800, especially if you
-  don't need high-end features. But do your homework before buying an e-bike from an
-  e-commerce company like Amazon or Walmart. It may be difficult to find independent
-  reviews for e-bikes sold on Amazon, and spare parts may be hard to come by. If you're
+  don't need high-end features. If you're
   looking for an affordable e-bike, we recommend starting with a guide like Electric Bike
   Review's
   [Best Cheap Electric Bikes](https://electricbikereport.com/best-cheap-electric-bikes).
