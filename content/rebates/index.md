@@ -38,12 +38,13 @@ If you are not eligible, you can check out our [e-bike buying guide, which inclu
 
 | | |
 |-|-|
-| Total number of rebates requested  | N/A | 
-| Total $ of rebates requested | N/A | 
-| Total $ of rebates granted   | N/A        |
+| Total number of rebates requested  | 95 | 
+| Total $ of rebates requested | $47,500 |
+| $ of rebates granted this month (February)| $2,500 |
+| Total $ of rebates granted   | $2,500 |
 
 
-*Last updated: 11/05/2023*
+*Last updated: 02/01/2023*
 
 The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.github.io/). I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/), a grassroots housing advocacy group.
 
