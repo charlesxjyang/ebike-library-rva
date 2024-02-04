@@ -7,7 +7,7 @@ Welcome to `RVA E-Bikes`! We are a non-profit based in Richmond VA that aims to 
 
 ### Check out our [Free E-Bike Library](/library)
 
-### Check out our [E-Bike Rebate Program](/rebate)
+### Check out our [E-Bike Rebate Program](/rebates)
 
 *Last updated: 12/16/2023*
 
