@@ -9,7 +9,7 @@ Welcome to `RVA E-Bikes`! We are a non-profit based in Richmond VA that aims to 
 
 ### Check out our [E-Bike Rebate Program](/rebates)
 
-*Last updated: 12/16/2023*
+*Last updated: 02/10/2023*
 
 The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.github.io/). I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/), a grassroots housing advocacy group.
 

@@ -13,7 +13,7 @@ We think its time for RVA to have its own rebate program! `RVA E-Bikes!` is exci
 </p>
 
 
-The rebate program will last until funding runs out or until the November 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, [tell Richmond city council and mayor by emailing them](https://www.rva.gov/richmond-city-council/council-contacts)! You can also support the recently introduced [Virginia state-wide E-bike rebate bill (HB 748)](https://lis.virginia.gov/cgi-bin/legp604.exe?ses=241&typ=bil&val=hb748) by telling your state house representative and state senator! Another way to show your support is to sign this petition by the [Virginia Biking Federation](https://p2a.co/ylMvPwL).
+The rebate program will last until funding runs out or until the November 2024 Richmond City Council elections, whichever comes first. If you want to see more e-bike rebates for RVA residents, [tell Richmond city council and mayor by emailing them](https://www.rva.gov/richmond-city-council/council-contacts)! 
 
 
 ### How it works
@@ -21,7 +21,7 @@ The rebate program will last until funding runs out or until the November 2024 R
 - **Only current Richmond city employees or Richmond city public school teachers and staff are eligible, with priority given to those who make less than $80K based on publicly available employee salary information**.
 - Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?usp=sf_link) (or see below) to apply
 - Rebates will be disbursed on the first day of every month, in the form of gift cards to a selected brand in our portfolio. Anyone who does not receive a rebate in one month will still be included in the next rounds, so there is no need to apply more than once.
-  - Next rebate announcement: 02/01/2023
+  - Next rebate announcement: 03/01/2023
 <!-- - Rebate amounts will be determined by income band, as shown below. Applicants in lower income bands will have priority. -->
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -44,7 +44,7 @@ If you are not eligible, you can check out our [e-bike buying guide, which inclu
 | Total $ of rebates granted   | $2,500 |
 
 
-*Last updated: 02/01/2023*
+*Last updated: 02/10/2023*
 
 The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.github.io/). I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/), a grassroots housing advocacy group.
 
