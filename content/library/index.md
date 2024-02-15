@@ -23,7 +23,7 @@ To find out about current availability of e-bikes in the library, reach out to W
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11639.675930274421!2d-77.42869963904023!3d37.53717322221317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b111125b5895d9%3A0x6f96d2735944ea05!2sWheel%20Simple%20Bicycle%20Repair!5e0!3m2!1sen!2sus!4v1702756150413!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-*Last updated: 02/10/2023*
+*Last updated: 02/10/2024*
 
 The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.github.io/). I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/), a grassroots housing advocacy group.
 
