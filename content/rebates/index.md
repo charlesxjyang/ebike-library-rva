@@ -21,7 +21,7 @@ The rebate program will last until funding runs out or until the November 2024 R
 - **Only current Richmond city employees or Richmond city public school teachers and staff are eligible, with priority given to those who make less than $80K based on publicly available employee salary information**.
 - Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?usp=sf_link) (or see below) to apply
 - Rebates will be disbursed on the first day of every month, in the form of gift cards to a selected brand in our portfolio. Anyone who does not receive a rebate in one month will still be included in the next rounds, so there is no need to apply more than once.
-  - Next rebate announcement: 03/01/2024
+  - Next rebate announcement: 03/31/2024
 <!-- - Rebate amounts will be determined by income band, as shown below. Applicants in lower income bands will have priority. -->
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrgMr1SfaDYMIIlYXz1Zsz-IDjBqTcMeahPPFlsU_ImgsJoQ/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -38,13 +38,13 @@ If you are not eligible, you can check out our [e-bike buying guide, which inclu
 
 | | |
 |-|-|
-| Total number of rebates requested  | 95 | 
-| Total $ of rebates requested | $47,500 |
+| Total number of rebates requested  | 124 | 
+| Total $ of rebates requested | $62,00 |
 | $ of rebates granted this month (February)| $2,500 |
-| Total $ of rebates granted   | $2,500 |
+| Total $ of rebates granted   | $5,000 |
 
 
-*Last updated: 02/10/2024*
+*Last updated: 02/29/2024*
 
 The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.github.io/). I'm a born and raised Richmonder and I also started [RVA YIMBY](https://www.rvayimby.org/), a grassroots housing advocacy group.
 
