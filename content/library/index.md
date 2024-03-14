@@ -12,6 +12,7 @@ We currently have two e-bikes models available:
 
 ### How it works
 - Anyone can borrow one (though we reserve the right to refuse to allow a check out for any reason). Borrows are up to two weeks - and completely free!
+- Must be at least 18 to check out an e-bike
 - You will be required to sign the [following waiver](https://docs.google.com/document/d/1g4k8Agirku9Uu-0BwrA9dlE09qTCvKvaEII4W3eyC_Y/edit?usp=sharing) when checking out a bike from the shop. We will also take a photocopy of a photo ID (any photo ID will do)
 
 
