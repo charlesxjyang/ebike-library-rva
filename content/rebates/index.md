@@ -41,7 +41,7 @@ If you are not eligible, you can check out our [e-bike buying guide, which inclu
 | Total number of rebates requested  | 128 | 
 | Total $ of rebates requested | $64,00 |
 | $ of rebates granted this month (March)| $2,500 |
-| Total $ of rebates granted   | $7,500 |
+| Total $ of rebates granted   | $8,000 |
 
 
 *Last updated: 04/05/2024*
