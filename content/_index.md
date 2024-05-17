@@ -16,4 +16,4 @@ The RVA E-Bikes! program is run by me, [Charles Yang](https://charlesxjyang.gith
 We welcome [donations and volunteers](/support) if
 you'd like to support our mission and help cover our costs.
 
-If you'd like to stay up to date on what we're doing, you can join our [mailing list here](https://postal.hackclub.com/subscription?f=5woUKHu1s4XPW892OVums76k8Dsc763PRikd7YwMcUHwCvdkV5976394KFdqlsMECneN2u8QkXiax1FTZhQm2sdIWtWA)!
+If you'd like to stay up to date on what we're doing, you can join our [mailing list here](https://postal.hackclub.com/subscription?f=Y9OTkwEQ0VnsMcFmOEb6exBd07Rd9kL7OiF5zAFZmzANuT763bEeTCU26Pd4RMiEk5JycLCEG892bYogesR2w0Dbrg)!
