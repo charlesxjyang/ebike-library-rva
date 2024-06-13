@@ -1,5 +1,8 @@
 # RVA E-Bike Library
 
+Unfortunately, one of the e-bikes in the library was stolen and we are no longer able to support the e-bike library anymore. 
+
+<!---
 In partnership with [Wheel Simple](https://itswheelsimple.com/), `RVA E-Bikes!` is hosting a Richmond e-bike library. You can borrow an e-bike for up to 2 weeks from the library, to try out an e-bike for yourself!
 
 ![Wheel Simple Logo](/img/cropped-wheelsimple-black.png)
@@ -32,3 +35,5 @@ We welcome [donations and volunteers](/support) if
 you'd like to support our mission and help cover our costs.
 
 If you'd like to stay up to date on what we're doing, you can join our [mailing list here](https://postal.hackclub.com/subscription?f=5woUKHu1s4XPW892OVums76k8Dsc763PRikd7YwMcUHwCvdkV5976394KFdqlsMECneN2u8QkXiax1FTZhQm2sdIWtWA)!
+
+--->
